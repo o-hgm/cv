@@ -1,0 +1,428 @@
+basics:
+  name: Oscar Hafner
+  label: Full-stack developer and IT consultant
+  location:
+    city: Málaga
+    region: Andalucía
+    country: Spain
+  profiles:
+    - network: Email
+      url: mailto:hafner.oscar@gmail.com
+
+    - network: Web
+      url: https://ohgm.dev
+
+    - network: Github
+      url: https://github.com/o-hgm
+      username: 'o-hgm'
+
+    - network: Linkedin
+      url: https://linkedin.com/in/oscarhafner
+      username: "oscarhafner"
+
+  summary: |
+    Insatiably curious with a special interest in new technologies and solving practical, real-world problems. 
+
+    As a telecommunications engineer, I’ve developed both electronics and software solutions, focusing primarily on industrial monitoring, wireless networks and data gathering procedures.
+
+    I also have ample experience on stem education projects applied to videogames and robotics, promoting the development of analytical and problem-solving skills.
+
+    In the last few years, I’ve focused on software development—from desktop applications to api and web services, to spec design and system deployments.
+
+    I pride myself on being a self-taught learner and highly adaptable, striving to bring innovative insight and a growth mindset to every endeavor.
+
+skills:
+  - name: Web Development
+    level: High
+    keywords:
+      - JavaScript (such as Node.js, Vue, Angular)
+      - Python frameworks (such as Django, Flask, Sanic)
+      - HTML/CSS/SCSS
+
+  - name: Applications & Deployment
+    level: High
+    keywords:
+      - Configuration management (Vagrant)
+      - Web application hosting
+      - CI/CD (Gitlab, Github, Bash)
+      - Server Management (Linux)
+      - Containers (Docker, XSA)
+
+  - name: Programming
+    level: Expert
+    keywords:
+      - Python/C#/JavaScript/TypeScript/C/C++
+      - Documentation writing & frameworks
+      - Test Driven Development
+      - Version control & management
+
+  - name: System Administration
+    level: Intermediate
+    keywords:
+      - Linux (Debian, Ubuntu)
+      - Server configuration
+      - Embedded devices
+      - Automated systems management
+      - Web servers (Nginx, Apache)
+      - Http Proxy Gateway (Traefik)
+
+work:
+  - company: MrMilu
+    website: https://mrmilu.com
+    position: Backend Developer
+    startDate: 'October 2021'
+    endDate: 'Currently Working'
+    summary: >
+      Working with Django + Celery to provide API and Integration services for a Asset Management
+      platform. 
+      
+    highlights:
+      - Support and resolution for bugs and critical platform issues.
+      - Analyze and implement new features for different areas of our Platform, providing API and Business logic
+        definition and implementation.
+
+  - company: HelloChange21
+    website: https://hellochange.co
+    position: Project Management + Full-stack Developer
+    startDate: 'May 2021'
+    endDate: 'September 2021'
+    summary: >
+      Integrate data analysis pipeline with a custom made django api to provide 
+      an easy way to perform surveys and analyze data.
+      
+    highlights:
+      - Project definition, milestone and task definition
+      - Integrate custom made python analytics software with django application and vue client
+
+  - company: FMIT Technologies
+    website: https://fmit.io
+    position: Full-stack Developer
+    startDate: 'Aug 2020'
+    endDate: 'May 2021'
+    summary: >
+      My job has been focused on API development for data management platforms and implementation of 
+      data digestion process for client data pipelines. I've also worked on testing 
+      strategies and deployment processes trying to implant quality assurance practiques. 
+      </br></br>
+      Some of the stack i've worked with includes: Node and Vue for service development, elasticsearch, redis, 
+      sap hana and cassandra as data providers or sap xsa as platform environment. 
+      
+    highlights:
+      - API definition, prototyping and development
+      - Implement data workflow related features (extraction, mapping)
+      - Testing pipeline automation and manual testing
+
+  - company: CenturyLink
+    website: https://www.centurylink.com/
+    position: Full-stack Contractor
+    startDate: 'Nov 2018'
+    endDate: 'Nov 2019'
+    summary: >
+      Working as a freelance contractor, during my time at CenturyLink i worked on API and Workflow operations, implementing or 
+      upgrading cloud operations in multiple cloud agents (AWS, Azure, Google). On frontend side i've worked with angular, adapting 
+      views and components related to platform management clients and vue, implementating dashboard apps.
+      </br></br>
+      Some of the stack i've worked with includes: Tornado, Vue, Angular, AWS, Docker, Javascript, Html, Python , MongoDB or YAML.
+
+    highlights:
+      - API development
+      - Workflow development for Cloud Agent operations
+      - Testing automation and improvement
+
+  - company: Red Eléctrica de España
+    website: https://www.ree.es
+    position: Full-stack Contractor
+    startDate: 'Jun 2018'
+    endDate: 'Nov 2018'
+    summary: >
+      Working on projects regarding data gathering, analysis and report modeling using python related 
+      frameworks for data access and processing. Maintain legacy code developed during my intership 
+      and improving features.
+      </br></br>
+      Some of the stack i've worked with includes: Flask, Javascript, Html, Python , SQL, .NET
+
+    highlights:
+      - Develop internal reporting tools.
+      - Extraction/Aggregation from Oracle DDBB systems.
+      - Automate workflows for different technical procedures.
+
+  - company: CNP Partners
+    website: https://www.cnppartners.es/
+    position: Full-stack Contractor
+    startDate: 'Jan 2018'
+    endDate: 'Feb 2018'
+    summary: >
+      Design and develop a small web app to manage user form data, interacting with custom made vertical plotters for ArCO 2018 Stand.
+      </br></br>
+      Stack: Django, Javascript, Html, Docker , SQL.
+
+  - company: Sytech IT
+    website: http://www.sytech.it/
+    position: Project Management & Software Development
+    startDate: 'July 2017'
+    endDate: 'Aug 2017'
+    summary: >
+      Design and development custom services for data workflow management in client facilities.  
+      </br></br>
+      Stack: C#, XML, Windows Services
+
+  - company: A Plus Abogados & Economistas
+    website: http://aplusae.es/
+    position: Project Management & Software Development
+    startDate: 'Oct 2016'
+    endDate: 'Mar 2018'
+    summary: >
+      Our first project was the design and develop of an internal GIS + Data analytics solution for house market related assets, providing automatic 
+      scrapping tools to gather, map and integrate multiple public information sources.
+      </br></br>
+      After that, i continued as solo software developer improving our internal GIS solution for assets management and market analysis and reporting tool.
+      Develop of custom automation tools for scrapping related operations designed and developed in-house, from client requirements to development and server deployment.
+      </br></br>
+      Stack: Python, Django, PostgreSQL, C#, IMAP, Html, Docker, Linux, HTML, JS, CSS
+
+    highlights:
+      - Prepare a web extraction environment to automate multiple data source extraction + transform.
+      - Provide a web application to search and operate with public data + gis sources.
+      - Develop a automation agent to track and run auction related operations.
+
+  - company: Sytech Iberica
+    website: http://sytech.it
+    position: Senior Software Developer
+    startDate: 'June 2016'
+    endDate: 'March 2017'
+    summary: >
+      During my period in sytech i worked designing and developing services related to workflow and hardware management regarding 
+      visual recognition for medical automation lines and it's implantation in client side.
+      </br></br>
+      Some of the stack i've worked with includes:  WPF, PostgreSQL, Siemens PLCs.
+
+    highlights:
+      - Develop integration tools for end-client systems and sytech software.
+      - Integrate different electronic devices with sytech stack.
+      - Provide technical support onsite for end clients.
+
+  - company: Red Electrica de España
+    website: https://ree.es
+    position: Software Engineer (Intership)
+    startDate: 'November 2015'
+    endDate: 'June 2016'
+    summary: >
+      During my intership i worked developing internal tools for multiple purposes, automating data management and reporting tools.
+      </br></br>
+      Some of the stack i've worked with includes: C#, MySQL, Firewalls, Networks, Oracle.
+
+    highlights:
+      - Automate device configuration process by developing internal tooling.
+      - Extract, aggregate and report information from different company sources.
+      - Transform internal vba applications to .NET apps and tools.
+
+  - company: Sentecno Innovación
+    website: https://www.sentecno.com/
+    position: Software/Firmware developer
+    startDate: September 2014
+    endDate: May 2016
+    summary: >
+      During my period in Sentecno i started developing python application for sensor networks client side management, 
+      working on Microchip pic24 related protocols and firmware for RS485 sensor networks and front-end and back-end for controlling low 
+      energy wireless sensor network (MSP Family).
+      </br></br>
+      Some of the stack i've worked with includes: Python, C, PostgreSQL, Data Management, Pic, Qt, RF.
+
+
+    highlights:
+      - Develop python middlewares and qt based frontends for custom electronic devices.
+      - Write firmware for pic and msp wireless sensor networks
+
+  - company: Stemxion Formación
+    website: https://stemxion.com/
+    position: Extrascholar STEM Teacher
+    startDate: 'October 2014'
+    endDate: 'March 2015'
+    summary: >
+      I worked as teacher in different schools, developing robotic and video-games design courses 
+      based on different STEM methodologies.</br></br>
+      My stack was: Scratch, Lego Mindstorm, Robotics, Video-games.
+
+    highlights:
+      - Develop retro-games course with scratch
+      - Work with nxt platform to provide a solid problem-solving skills
+
+  - company: Costa del Sol Trading
+    website: None
+    position: Web Developer
+    startDate: 'March 2013' 
+    endDate: 'June 2013'
+    summary: >
+      Design and develop an advertisment website.
+      </br></br>
+      Stack: HTML, PHP, MySQL.
+
+  - company: Digimec
+    website: https://www.linkedin.com/company/digimec
+    position: Software/Hardware Engineer
+    startDate: 'October 2011'
+    endDate: 'May 2012'
+    summary: >
+      During this training i developed a wireless sensor network for water consumption measuring, 
+      implementing an UI over QT/C++ for data visualization. We also worked developing RFID access 
+      control and tools for data viz.
+      </br></br>
+      Our stack was focused in: C#, C, MySQL, Qt, C++, RF
+
+  - company: AT4 Wireless
+    website: http://wireless.dekra-product-safety.com/
+    position: Scholar in EMC
+    startDate: 'November 2010'
+    endDate: 'May 2011'
+    summary: >
+      Tasks: </br>
+        - Electromagnetic device testing.</br>
+        - Develop software tools for EMC Test.
+      </br></br>
+      Stack: C#, EMC, Documentation and Testing Protocols.
+  
+# Types consist of 'volunteering', 'presentation', 'talk', 'application', 'conference', 'course'
+projects:
+  - type: talk
+    entity: ETSIT Málaga
+    name: Retrospectiva, experiencia profesional en Ing. Telecomunicación (2)
+    url: https://etsit.uma.es
+    startDate: 'December 2019'
+    # endDate: '2020-08-01'
+    description: >
+      Talk aimed at explaining the different professional stages from an engineer's perspective
+
+    # highlights:
+    #   - React & JavaScript programming
+    #   - Startup bootstrapping (domain, website, email)
+    #   - WordPress development
+    #   - Network deployment and configuration
+    # roles:
+    #  - Lead developer
+    #  - Security consultant
+  - type: talk
+    entity: ETSIT Málaga
+    name: Retrospectiva, experiencia profesional en Ing. Telecomunicación (1)
+    url: https://etsit.uma.es
+    startDate: 'October 2018'
+    # endDate: '2020-08-01'
+    description: >
+      Talk aimed at explaining the different professional stages from an engineer's perspective
+
+  - type: course
+    entity: KDE-Spain/BitValley
+    name: Organization - Akademy-es
+    url: https://europaerestu.eu/experiencia-de-intercambio-en-italia-2/
+    startDate: 'May 2014'
+    # endDate: 'November 2014'
+    description: >
+      Review of the results obtained during the development of my final degree project.
+
+  - type: conference
+    entity: Erasmus+
+    name: Group Leader - Sharing Identities
+    url: https://europaerestu.eu/experiencia-de-intercambio-en-italia-2/
+    startDate: 'October 2014'
+    endDate: 'November 2014'
+    description: >
+      Review of the results obtained during the development of my final degree project.
+
+  - type: presentation
+    entity: ETSIT Málaga
+    name: Final career project - Estudio del robot LEGO Mindstorms NXT para aplicaciones de enjambre
+    url: https://etsit.uma.es/
+    startDate: 'June 2014'
+    # endDate: None
+    description: >
+      Review of the results obtained during the development of my final degree project.
+
+  - type: course
+    entity: Coursera
+    name: Machine Learning 101 - 45h
+    url: https://coursera.com/
+    startDate: 'July 2013'
+    endDate: '45h'
+    description: >
+      - Learn techniques for lineal regression, neural networks and machine learning basis.</br>
+      - Develop a small neural network for handwritten numbers analysis.</br>
+  
+  - type: course
+    entity: ETSIT Málaga
+    name: Lab Instructor
+    url: https://etsit.uma.es/
+    startDate: 'Sept 2012'
+    endDate: 'March 2013'
+    description: >
+      Teach and guide students in the use of instrumentation equipment. 
+
+  - type: course
+    entity: ETSIT Málaga
+    name: Modeling of Mechatronic Systems, Introductory Course
+    url: https://etsit.uma.es/
+    startDate: 'May 2012'
+    endDate: '10h'
+    description: >
+      Gained knowledge about different types of sensors and actuators. From numerical analysis to design.
+
+  - type: course
+    entity: Dublin, Ireland
+    name: B2 English Course
+    startDate: 'July 2009'
+    endDate: '2 Weeks'
+    description: >
+      Language immersion course.
+
+education:
+  - institution: Escuela Técnica y Superior de Ingeniería de Telecomunicación
+    area: Telecommunication Engineer Degree
+    startDate: 'September 2006'
+    endDate: 'June 2014'
+    # gpa: 9
+
+  - institution: Secondary School Institute (Los Boliches).
+    area: Scientific and Technical Bachelor Degree
+    startDate: 'September 2004'
+    endDate: 'June 2006'
+    # gpa: '7'
+
+# volunteer:
+#   - organization: DevNQ
+#     website: https://devnq.org
+#     startDate: '2016-05-12'
+#     #endDate:
+#     position: Treasurer, Organiser & Member
+#     summary: >
+#       North Queensland’s software development community, bringing together
+#       people of different backgrounds through events, mentoring, workshops and
+#       more in Townsville, Queensland, Australia.
+#     highlights:
+#       - Group treasurer since 2019
+#       - Member of organising committee since 2018
+#       - Open governance author & contributor
+#       - Regular event presenter
+
+interests:
+  - name: Technology
+    keywords:
+      - Open source & community
+      - Node.js, Python, all languages
+      - UX/UI
+      - Web development
+      - Innovation & startups
+      - Home automation
+  - name: Personal
+    keywords:
+      - Cooking
+      - Home DIY
+
+languages:
+  - language: English
+    fluency: Native speaker
+
+#references:
+  #- name: Professor Ian Atkinson
+    #reference: |-
+      #Reference coming soon.
+  #- name: Marianne Brown
+    #reference: |-
+      #Reference coming soon.
