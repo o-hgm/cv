@@ -4,6 +4,8 @@ name: Publish resume in JSONResume format as Github Page
 on:
   push:
     branches: [ master ]
+  commit_comment:
+    branches: [ master ]
 
 jobs:
   check_run:
@@ -21,7 +23,7 @@ jobs:
         name: Export resume as HTML
         with:
           theme: macchiato
-          resume_filepath: resume.json
+          resume_filepath: resume.yaml
           # modifies the index.html in-place
           output_filepath: docs/index.html
       - name: Commit published HTML
